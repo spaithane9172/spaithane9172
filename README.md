@@ -10,7 +10,7 @@
 
 - 🎓 Completed my Bachelor's in Computer Engineering in 2023  
 - 💻 Skilled in building full-stack web apps using MERN Stack. 
-
+- 🧑‍💼 Completed a 6-month internship as an IT/Software Intern at Mind Prabha Technologies Pvt. Ltd.
 ---
 
 ## 🛠️ Tech Stack
