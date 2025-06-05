@@ -33,7 +33,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=spaithane9172&show_icons=true&theme=tokyonight" width="48%" />
+</p>
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spaithane9172&layout=compact&theme=tokyonight" width="48%" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=spaithane9172&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
