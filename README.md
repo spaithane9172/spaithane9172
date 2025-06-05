@@ -41,8 +41,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=spaithane9172&theme=gruvbox&margin-w=10
-" />
+  <img src="https://github-profile-trophy.vercel.app/?username=spaithane9172&theme=gruvbox&margin-w=10" />
 </p>
 
 
