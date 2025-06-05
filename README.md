@@ -32,8 +32,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarkLordLucifer&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkLordLucifer&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=spaithane9172&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spaithane9172&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
@@ -41,7 +41,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DarkLordLucifer&theme=gruvbox&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=spaithane9172&theme=gruvbox&margin-w=10" />
 </p>
 
 
